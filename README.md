@@ -6,7 +6,7 @@
 ## 👥 Integrantes del Proyecto
 
 - **Gamboa Agredo Nicolás** - Id: U00184047 -  Email: ngamboa847@unab.edu.co
-- **Miranda Guerra Marcia Andrea** - Id:  -  Email: mmiranda666@unab.edu.co
+- **Miranda Guerra Marcia Andrea** - Id: U00182493 -  Email: mmiranda666@unab.edu.co
 
 
 ---
