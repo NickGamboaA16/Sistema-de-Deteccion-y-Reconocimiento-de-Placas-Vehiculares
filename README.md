@@ -117,6 +117,7 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 pip install ultralytics fastapi uvicorn easyocr opencv-python-headless pillow numpy python-multipart
 ```
 <img width="1397" height="962" alt="despl" src="https://github.com/user-attachments/assets/c310e4b8-c0e2-420d-9adb-c20a521efe3b" />
+<img width="561" height="165" alt="image" src="https://github.com/user-attachments/assets/308c3d31-2e9b-4eff-a873-30b90ae1369e" />
 
 ---
 
