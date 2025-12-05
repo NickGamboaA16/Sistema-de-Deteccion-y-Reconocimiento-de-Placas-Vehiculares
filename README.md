@@ -132,24 +132,17 @@ python3 app.py
 <img width="1896" height="633" alt="resp" src="https://github.com/user-attachments/assets/e90c3d91-0084-4331-b679-14d251d5665e" />
 
 ---
+Respuesta del servidor a peticiones
+---
 
 <img width="813" height="753" alt="REspuesta2" src="https://github.com/user-attachments/assets/a925b537-d846-4049-904a-bf457805b547" />
 
 ---
-El servidor estará disponible en: `http://IP_PUBLICA:8080`
+El servidor estará disponible en: `http://52.201.115.189:8080`
 
 ---
 
 ### 2️⃣ Aplicación Móvil (React Native + Expo)
-
-<img width="1920" height="1020" alt="Lanzado" src="https://github.com/user-attachments/assets/e08cadf0-5f03-40b7-b192-9b1cbd1bb910" />
-
----
-<img width="1920" height="1020" alt="lanzado2" src="https://github.com/user-attachments/assets/0457edb6-47ce-4bf8-920b-609ef00f6cd6" />
-
----
-
-<img width="1920" height="1020" alt="lanzado3" src="https://github.com/user-attachments/assets/e020b975-bf76-4c80-8b85-4d3724ccd6e8" />
 
 #### Requisitos Previos
 - Node.js 18+
@@ -167,7 +160,7 @@ npm install --legacy-peer-deps
 
 # Configurar IP del servidor
 # Editar App.tsx, línea 6:
-const API_URL = 'http://TU_IP_EC2:8080';
+const API_URL = 'http://52.201.115.189:8080';
 ```
 
 #### Ejecución
@@ -177,19 +170,31 @@ npx expo start
 
 # Con túnel (para redes diferentes)
 npx expo start --tunnel
-```
-
 Escanear el código QR con:
 - **Android:** App Expo Go
 - **iOS:** Cámara del iPhone
+```
+<img width="1920" height="1020" alt="Lanzado" src="https://github.com/user-attachments/assets/e08cadf0-5f03-40b7-b192-9b1cbd1bb910" />
 
 ---
+Dispositivo IOS conectado
+---
+<img width="1920" height="1020" alt="lanzado2" src="https://github.com/user-attachments/assets/0457edb6-47ce-4bf8-920b-609ef00f6cd6" />
+
+---
+Dispositivo Android conectado
+---
+
+<img width="1920" height="1020" alt="lanzado3" src="https://github.com/user-attachments/assets/e020b975-bf76-4c80-8b85-4d3724ccd6e8" />
+
+
 
 ## 📸 Evidencias de Funcionamiento
 
 ### Backend
-
-
+---
+Consumo y verificación de la API del backend mediante Postman.
+<img width="1783" height="866" alt="image" src="https://github.com/user-attachments/assets/08d50c24-fdd4-412e-adbc-a1a6718e2388" />
 
 
 
