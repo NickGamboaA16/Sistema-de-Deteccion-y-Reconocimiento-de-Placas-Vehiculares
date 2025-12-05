@@ -211,7 +211,6 @@ Ejecución en Expo Go
 ![WhatsApp Image 2025-12-04 at 5 13 54 PM (1)](https://github.com/user-attachments/assets/2746d57d-eeaa-439d-89bd-58a2c0a148a9)
 ![WhatsApp Image 2025-12-04 at 5 13 54 PM (5)](https://github.com/user-attachments/assets/f34ffcee-dc1f-437f-a526-1ab711da87d2)
 ![WhatsApp Image 2025-12-04 at 5 13 55 PM (1)](https://github.com/user-attachments/assets/d82ec0d6-f7bb-408a-9326-67f5eef8fa88)
-![WhatsApp Image 2025-12-04 at 5 13 54 PM (2)](https://github.com/user-attachments/assets/1c7e7e2b-211a-4d80-9376-34bff8569372)
 
 
 https://github.com/user-attachments/assets/e924b47f-8d41-42e2-9290-bd3a12fc8934
