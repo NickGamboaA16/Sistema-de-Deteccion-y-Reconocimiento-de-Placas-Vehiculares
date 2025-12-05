@@ -21,7 +21,7 @@ Sistema completo de detección y reconocimiento automático de placas vehiculare
 - **AWS EC2** para despliegue en la nube
 - **React Native (Expo)** como aplicación móvil multiplataforma
 
-El sistema permite capturar o seleccionar una imagen de un vehículo y obtener automáticamente el texto de su placa vehicular mediante inteligencia artificial.
+Este sistema permite detectar y reconocer placas vehiculares a partir de imágenes o video, utilizando técnicas de visión artificial con YOLO. Los resultados son enviados a un backend que procesa la información y la muestra en una aplicación móvil.
 
 ---
 
