@@ -67,9 +67,6 @@ Implementar un sistema de detección automática de placas vehiculares utilizand
 Detector-Placas-YOLO/
 ├── backend/              # Código del servidor FastAPI
 ├── mobile-app/           # Aplicación móvil React Native
-├── evidencias/           # Capturas de pantalla del proyecto
-│   ├── backend/          # Evidencias del backend
-│   └── frontend/         # Evidencias de la app móvil
 └── README.md             # Este archivo
 ```
 
@@ -195,6 +192,9 @@ Dispositivo Android conectado
 ---
 Consumo y verificación de la API del backend mediante Postman.
 <img width="1783" height="866" alt="image" src="https://github.com/user-attachments/assets/08d50c24-fdd4-412e-adbc-a1a6718e2388" />
+
+### FrontEnd
+---
 
 
 
