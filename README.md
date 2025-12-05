@@ -191,10 +191,40 @@ Dispositivo Android conectado
 ### Backend
 ---
 Consumo y verificación de la API del backend mediante Postman.
+![carroprueba](https://github.com/user-attachments/assets/9454611d-426b-4100-8fe1-4b2600058e97)
+
 <img width="1783" height="866" alt="image" src="https://github.com/user-attachments/assets/08d50c24-fdd4-412e-adbc-a1a6718e2388" />
 
 ### FrontEnd
 ---
+Ejecución en Expo Go
 
+<img width="720" height="1452" alt="ExpoGo" src="https://github.com/user-attachments/assets/fb21dd8c-fbf9-4943-99ee-992fe7e40867" />
+
+![WhatsApp Image 2025-12-04 at 5 13 54 PM (8)](https://github.com/user-attachments/assets/2b24602e-e19c-489f-a37c-437aac542ae5)
+
+![WhatsApp Image 2025-12-04 at 5 13 54 PM (7)](https://github.com/user-attachments/assets/523db652-d9d1-4ef4-b542-88eef9d05f82)
+
+![WhatsApp Image 2025-12-04 at 5 13 54 PM (4)](https://github.com/user-attachments/assets/e45310be-c2dd-4fc4-bae1-08206dfa01ef)
+![WhatsApp Image 2025-12-04 at 5 13 54 PM (3)](https://github.com/user-attachments/assets/c57a0b52-5ef8-48a5-970c-96cdad02ecde)
+![WhatsApp Image 2025-12-04 at 5 13 54 PM (2)](https://github.com/user-attachments/assets/5cf05ebb-d2fa-43fd-8b1e-d421e56687b8)
+![WhatsApp Image 2025-12-04 at 5 13 54 PM (1)](https://github.com/user-attachments/assets/2746d57d-eeaa-439d-89bd-58a2c0a148a9)
+![WhatsApp Image 2025-12-04 at 5 13 54 PM (5)](https://github.com/user-attachments/assets/f34ffcee-dc1f-437f-a526-1ab711da87d2)
+![WhatsApp Image 2025-12-04 at 5 13 55 PM (1)](https://github.com/user-attachments/assets/d82ec0d6-f7bb-408a-9326-67f5eef8fa88)
+![WhatsApp Image 2025-12-04 at 5 13 54 PM (2)](https://github.com/user-attachments/assets/1c7e7e2b-211a-4d80-9376-34bff8569372)
+
+
+https://github.com/user-attachments/assets/e924b47f-8d41-42e2-9290-bd3a12fc8934
+
+
+---
+Ejecución Desde La App en Android
+---
+![WhatsApp Image 2025-12-04 at 4 37 19 PM (2)](https://github.com/user-attachments/assets/a00947e8-5e57-4374-98a0-c55643f6b37d)
+
+![WhatsApp Image 2025-12-04 at 4 37 19 PM](https://github.com/user-attachments/assets/dfe47554-b024-4eb7-a2c3-66a254b5e6a2)
+
+![WhatsApp Image 2025-12-04 at 4 37 19 PM (5)](https://github.com/user-attachments/assets/7d4903db-ea7a-4c07-88e0-c241bbc65f36)
+![WhatsApp Image 2025-12-04 at 4 37 19 PM (4)](https://github.com/user-attachments/assets/d71b2f18-bb25-47b8-8d02-9a5c3041aaed)
 
 
