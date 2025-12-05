@@ -86,8 +86,6 @@ Detector-Placas-YOLO/
 ---
 <img width="1912" height="882" alt="aws3" src="https://github.com/user-attachments/assets/5887702b-5797-49fa-9213-404626d8d399" />
 
----
-<img width="1528" height="747" alt="aws4" src="https://github.com/user-attachments/assets/e4f384c4-dc87-4ed6-b15f-17a5dfc0e1de" />
 
 ---
 #### Configuración de la Instancia
@@ -98,7 +96,7 @@ Detector-Placas-YOLO/
 - Almacenamiento: 32 GiB
 - Puertos abiertos: 22 (SSH), 8080 (API)
 
-<img width="1920" height="1020" alt="back" src="https://github.com/user-attachments/assets/e1a67c48-851d-478f-a3fb-43ffb534f2af" />
+<img width="1528" height="747" alt="aws4" src="https://github.com/user-attachments/assets/e4f384c4-dc87-4ed6-b15f-17a5dfc0e1de" />
 
 ---
 #### Instalación de Dependencias
@@ -116,7 +114,6 @@ source venv/bin/activate
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
 pip install ultralytics fastapi uvicorn easyocr opencv-python-headless pillow numpy python-multipart
 ```
-<img width="1397" height="962" alt="despl" src="https://github.com/user-attachments/assets/c310e4b8-c0e2-420d-9adb-c20a521efe3b" />
 <img width="561" height="165" alt="image" src="https://github.com/user-attachments/assets/308c3d31-2e9b-4eff-a873-30b90ae1369e" />
 
 ---
