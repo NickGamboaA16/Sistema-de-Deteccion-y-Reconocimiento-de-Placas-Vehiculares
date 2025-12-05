@@ -1,15 +1,13 @@
 # 🚗 Detector de Placas Vehiculares con YOLOv8
-<img width="1900" height="912" alt="aws" src="https://github.com/user-attachments/assets/58e53036-5c43-457e-be5b-05f91d0cf6f0" />
+![Banner](https://github.com/user-attachments/assets/51f8e4ad-61ac-4fd9-acd7-ca5f33621aa7)
+
 ---
 
 ## 👥 Integrantes del Proyecto
 
-- **Gamboa Agredo Nicolás** - ID: XXXXXXXXX - Email: ngamboa847@unab.edu.co
-- **Miranda Guerra Marcia Andrea** - ID: XXXXXXXXX - Email: mmiranda666@unab.edu.co
+- **Gamboa Agredo Nicolás** -  Email: ngamboa847@unab.edu.co
+- **Miranda Guerra Marcia Andrea** -  Email: mmiranda666@unab.edu.co
 
-**Institución:** Universidad Autónoma de Bucaramanga (UNAB)  
-**Programa:** Ciencia de Datos  
-**Fecha:** Diciembre 2025
 
 ---
 
